@@ -8,6 +8,14 @@ you are switching between buffers.
 
 ![buftabs](buftabs.png)
 
+# Installation
+
+Copy buftabs.vim into your vim plugins directory, or use Plugger:
+
+```
+Plug 'zevv/buftabs'                                                            
+```
+
 # Usage
 
 This script draws buffer tabs on vim startup, when a new buffer is created
